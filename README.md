@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on natural language understanding with video and podcast transcriptions. 
-### 👯 I’m looking to collaborate on something new! I recently finished my graduate work and am seeking a new role. 
+### 👯 I’m looking to collaborate on something new! I recently finished my graduate studies and am seeking a new role. 
 ### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peycke)
 
 <!--
