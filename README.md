@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on natural language understanding with video and podcast transcriptions. 
 ### 👯 I’m looking to collaborate on something new! I recently finished my graduate work and am seeking a new role. 
-### 📫 How to reach me:[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/peycke)
+### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/peycke)
 
 <!--
 **ZanePeycke/zanepeycke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
