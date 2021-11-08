@@ -1,8 +1,6 @@
-<!-- ### Hi there 👋
-### 🔭 I’m currently working on natural language understanding for video and podcast applications. 
-### 👯 I’m looking to collaborate on something new! I recently finished my graduate studies and am seeking a data scientist position. If you are interested in working together, reach out to me on LinkedIn.
-### [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/peycke)
-### 📫 How to reach me:
+### 👋 Hi! 👋 
+### 🔭 I'm currently working on machine learning at [Spectral](https://spectral.finance)
+### 👨‍🎓 I previously worked on language and vision systems at Columbia University, and applied physics at the University of Washington.  
+### 📫 Have a question or want to say hello? Reach out to me on [Linkedin](https://linkedin.com/in/peycke) or by [email](mailto:z@peyck.es).
 
--->
 
